@@ -1,1 +1,1 @@
-this file is just created\
+this file has conflicting changes
